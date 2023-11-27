@@ -1,8 +1,6 @@
 <?php
 //pull-request
 class Product {
-    private $name;
-    private $value;
     public function setName($name) {}
     public function setValue($value) {}
     public function getName() {}
